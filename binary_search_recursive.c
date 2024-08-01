@@ -1,4 +1,6 @@
 // Binary search implemantation using c language
+// binary search recursive way 
+// of implementation
 
 #include <stdio.h>
 
