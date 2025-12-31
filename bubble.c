@@ -1,4 +1,5 @@
 // Bubble sort implementation using c language
+// learning all of data structure and algorithms
 
 #include <stdio.h>
 
